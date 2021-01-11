@@ -1,0 +1,4 @@
+baseURL = "https://laravelcodecamp.org"
+languageCode = "en-us"
+title = "LaravelCodecamp"
+theme = "vanilla-bootstrap-hugo-theme"
